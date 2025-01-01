@@ -7,7 +7,7 @@ on:
     paths:
       - '**'
       - '.github/workflows/contracts.yaml'
-  pull_request:
+  pull_request
     types:
       - opened
       - reopened
